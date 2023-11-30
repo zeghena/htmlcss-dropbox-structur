@@ -10,8 +10,20 @@ box-sizing: border-box;
 .bordi-blocchi{
     background-color: lightgrey;
     padding: 30px;
+    
     border: 2px dashed grey;
     min-height: 80px;
     text-align: center;
-    font-size: xx-large;
+    font-size: large;
+    text-align: left;
+    
+}
+
+/* ####Header */
+
+.header{
+   display: flex;
+   align-content: center;
+   justify-content: center;
+    
 }
